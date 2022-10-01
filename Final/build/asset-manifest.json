@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f71897a.css",
+    "main.js": "/static/js/main.8f35ef74.js",
+    "static/js/787.7f320c1d.chunk.js": "/static/js/787.7f320c1d.chunk.js",
+    "static/media/image1_location.png": "/static/media/image1_location.969fdd72749bf4223840.png",
+    "static/media/home2.jpg": "/static/media/home2.b7a41ba374e7c1ba7d5e.jpg",
+    "static/media/watercolor.jpg": "/static/media/watercolor.c9f4e08824f31f5cc707.jpg",
+    "static/media/painting.jpg": "/static/media/painting.f6155232d00c4fe8f113.jpg",
+    "static/media/Computer-Repairing.jpg": "/static/media/Computer-Repairing.482b1af058465c14d069.jpg",
+    "static/media/walljpg.jpg": "/static/media/walljpg.043f8abb4f30f2feb1c2.jpg",
+    "static/media/avatar.png": "/static/media/avatar.afa89b43868a850bba32.png",
+    "static/media/House-Keeping.jpg": "/static/media/House-Keeping.4ce4dcebf86ed938938b.jpg",
+    "index.html": "/index.html",
+    "main.4f71897a.css.map": "/static/css/main.4f71897a.css.map",
+    "main.8f35ef74.js.map": "/static/js/main.8f35ef74.js.map",
+    "787.7f320c1d.chunk.js.map": "/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f71897a.css",
+    "static/js/main.8f35ef74.js"
+  ]
+}
